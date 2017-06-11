@@ -1,0 +1,15 @@
+{
+  "name": "zyc_bower",
+  "version": "0.0.0",
+  "authors": [
+    "zhangyaochun <zhangyaochun@mobike.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
